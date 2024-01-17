@@ -22,7 +22,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./result_summary_component/public/images/screenshot.png)
+![](./public/images/screenshot.png)
 
 ### Links
 
