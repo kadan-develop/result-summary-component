@@ -19,6 +19,8 @@ body {
 }
 
 main {
+  width: 680px;
+  height: 480px;
   box-shadow: 9px 15px 30px 1px hsl(221, 100%, 96%);
 }
 
@@ -59,6 +61,7 @@ main {
   body {
     height: 100%;
   }
+
   main {
     width: 375px;
     height: 100%;

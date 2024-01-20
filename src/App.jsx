@@ -6,7 +6,7 @@ import data from "../data.json";
 function App() {
   return (
     <>
-      <main className="w-[680px] h-[480px] flex rounded-[30px] bg-[#fff]">
+      <main className="flex rounded-[30px] bg-[#fff]">
         <Result />
         <Summary data={data} />
         <Footer />
